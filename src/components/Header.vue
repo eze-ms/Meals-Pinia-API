@@ -72,7 +72,7 @@
                         id="ingredientes"
                         type="text"
                         class="p-3 w-full rounded-lg focus:outline-none bg-customInput"
-                        placeholder="Nombre o Ingredientes: ej. Pollo, Ensalada, Pasta, etc..."
+                        placeholder="Ej. Pollo, Ensalada, Pasta, etc..."
                         v-model="store.busqueda.nombre"
                     >
                 </div>
