@@ -5,7 +5,15 @@ export default {
     './src/**/*.{vue,js,ts,jsx,tsx}'
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        customRed: '#e24a3a',
+        customInput: '#faf1e9'
+      },
+      maxHeight: {
+        '696': '696px',
+      },
+    },
   },
   plugins: [],
 }
