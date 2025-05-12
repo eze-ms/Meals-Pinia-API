@@ -82,7 +82,7 @@ RecetasApp/
 ## 🛠️ Instalación
 
 ```bash
-git clone https://github.com/eze-ms/CodeCareer-NodeJs.git
+git clone http://github.com/eze-ms/Meals-Pinia-API
 
 ```
 
