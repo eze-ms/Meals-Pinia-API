@@ -86,7 +86,7 @@ git clone http://github.com/eze-ms/Meals-Pinia-API
 
 ```
 
-### Instalar dependencias del backend
+### Instalar dependencias
 ```bash
 npm install
 ```
